@@ -1,0 +1,817 @@
+@media only screen and (min-width:1919px) {
+    .topbar {
+        padding: 0vh 1vh;
+        height: 6vh;
+        font-size: 1.5rem;
+    }
+
+    .topbar img {
+        margin-right: 2vh;
+    }
+
+    .navbar .navlinks {
+        width: 100%;
+        padding: 0vh 4vh;
+    }
+
+    .navbar div img {
+        width: 200%;
+        height: auto;
+    }
+
+    .navbar .navleft {
+        margin-right: 10vh;
+        margin-top: -6vh;
+    }
+
+    .navbar .navlinks ul a {
+        font-size: 2rem;
+    }
+
+    .navbar .navlinks .dropdown:hover .dropdown-content {
+        padding: 2vh;
+        width: 32vh;
+    }
+
+    .schoolname {
+        font-size: 3rem;
+    }
+
+    .aboutUs .aboutheading,
+    .campus .aboutheading {
+        font-size: 2rem;
+    }
+
+    .aboutUs .greentext,
+    .ourculture .greentext,
+    .campus .greentext,
+    .facilities .greentext,
+    .principaldesk .greentext,
+    .photogallery .greentext,
+    .formfilling .greentext {
+        font-size: 3rem;
+    }
+
+    .aboutUs p,
+    .ourculture p,
+    .campus p,
+    .facilities p {
+        font-size: 2rem;
+    }
+
+    .aboutUs .darkslategray,
+    .ourculture .darkslategray,
+    .campus .darkslategray,
+    .facilities .darkslategray,
+    .principaldesk .darkslategray,
+    .photogallery .darkslategray,
+    .formfilling .darkslategray {
+        font-size: 2.6rem;
+    }
+
+    .aboutUs button,
+    .principaldesk .principalmorebtn {
+        font-size: 2rem;
+    }
+
+    .campus .campusExpl .campusflex img {
+        width: 70%;
+        margin-right: 2vh;
+    }
+
+    .campus .campusExpl .campusflex h2 {
+        font-size: 2.2rem;
+    }
+
+    .vision h1,
+    h2 {
+        font-size: 2.6rem;
+    }
+
+    .vision p {
+        font-size: 2rem;
+    }
+
+    .principaldesk p {
+        font-size: 1.8rem;
+        line-height: 5vh;
+    }
+
+    .photogallery {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .photogallery .photogallerygrid {
+        column-gap: 4vh;
+        row-gap: 5vh;
+    }
+
+    .photogallery img {
+        width: 90%;
+        height: auto;
+    }
+
+    .photogallery .photogalleryimage2 img {
+        width: 57vh;
+        height: 37vh;
+        object-fit: cover;
+    }
+
+    .formfilling .info input {
+        height: 5vh;
+        font-size: 2rem;
+    }
+
+    .formfilling .address textarea {
+        width: 62%;
+        font-size: 2rem;
+    }
+
+    .formfilling .submit input {
+        width: 20%;
+        height: 5vh;
+        font-size: 2rem;
+    }
+
+    footer {
+        justify-content: center;
+    }
+
+    .copyright {
+        justify-content: center;
+        column-gap: 15vh;
+    }
+
+    .copyright h3 {
+        color: white;
+        font-size: 2.2rem;
+    }
+
+    .copyright ul {
+        margin-left: -3vh;
+    }
+
+    .copyright ul li {
+        font-size: 2rem;
+    }
+
+    footer p {
+        font-size: 1.8rem;
+    }
+}
+
+@media only screen and (max-width:1919px) {
+    .topbar {
+        height: 5vh;
+        font-size: 0.9rem;
+    }
+
+    .navbar div img {
+        width: 100%;
+        height: auto;
+    }
+
+    .navbar .navleft {
+        margin-right: 2vh;
+    }
+
+    .navbar .navlinks ul a {
+        font-size: 1.4rem;
+    }
+
+    .navbar .navlinks .dropdown:hover .dropdown-content {
+        padding: 2vh;
+        width: 32vh;
+    }
+
+    .schoolname {
+        font-size: 2.2rem;
+    }
+
+    .aboutUs .aboutheading,
+    .campus .aboutheading {
+        font-size: 1.6rem;
+    }
+
+    .aboutUs .greentext,
+    .ourculture .greentext,
+    .campus .greentext,
+    .facilities .greentext,
+    .principaldesk .greentext,
+    .photogallery .greentext,
+    .formfilling .greentext {
+        font-size: 2.2rem;
+    }
+
+    .aboutUs p,
+    .ourculture p,
+    .campus p,
+    .facilities p {
+        font-size: 1.4rem;
+    }
+
+    .aboutUs .darkslategray,
+    .ourculture .darkslategray,
+    .campus .darkslategray,
+    .facilities .darkslategray,
+    .principaldesk .darkslategray,
+    .photogallery .darkslategray,
+    .formfilling .darkslategray {
+        font-size: 2rem;
+    }
+
+    .aboutUs button,
+    .principaldesk .principalmorebtn {
+        font-size: 1.4rem;
+    }
+
+    .campus .campusExpl .campusflex img {
+        width: 70%;
+        margin-right: 2vh;
+    }
+
+    .campus .campusExpl .campusflex h2 {
+        font-size: 1.8rem;
+    }
+
+    .vision h1,
+    h2 {
+        font-size: 2rem;
+    }
+
+    .vision p {
+        font-size: 1.4rem;
+    }
+
+    .principaldesk p {
+        font-size: 1.4rem;
+        line-height: 5vh;
+    }
+
+    .photogallery {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .photogallery .photogallerygrid {
+        column-gap: 5vh;
+        row-gap: 5vh;
+    }
+
+    .photogallery img {
+        width: 82%;
+        height: auto;
+    }
+
+    .photogallery .photogalleryimage2 img {
+        width: 58vh;
+        height: 38vh;
+        object-fit: cover;
+    }
+
+    .formfilling .info input {
+        height: 5vh;
+        font-size: 1.4rem;
+    }
+
+    .formfilling .address textarea {
+        width: 62%;
+        font-size: 1.4rem;
+    }
+
+    .formfilling .submit input {
+        width: 20%;
+        height: 5vh;
+        font-size: 1.4rem;
+    }
+
+    footer {
+        justify-content: center;
+    }
+
+    .copyright {
+        justify-content: center;
+        column-gap: 15vh;
+    }
+
+    .copyright h3 {
+        color: white;
+        font-size: 1.8rem;
+    }
+
+    .copyright ul {
+        margin-left: -5vh;
+    }
+
+    .copyright ul li {
+        font-size: 1.4rem;
+    }
+
+    footer p {
+        font-size: 1.2rem;
+    }
+}
+
+
+@media only screen and (max-width:1199px) {
+    .topbar {
+        height: 4vh;
+        font-size: 0.75rem;
+    }
+
+    .navbar div img {
+        width: 100%;
+        height: auto;
+    }
+
+    .navbar .navleft {
+        margin-right: 2vh;
+    }
+
+    .navbar .navlinks ul a {
+        font-size: 1rem;
+    }
+
+    .navbar .navlinks .dropdown:hover .dropdown-content {
+        padding: 2vh;
+        width: 30vh;
+    }
+
+    .schoolname {
+        font-size: 1.5rem;
+    }
+
+    .aboutUs .aboutheading,
+    .campus .aboutheading {
+        font-size: 1.4rem;
+    }
+
+    .aboutUs .greentext,
+    .ourculture .greentext,
+    .campus .greentext,
+    .facilities .greentext,
+    .principaldesk .greentext,
+    .photogallery .greentext,
+    .formfilling .greentext {
+        font-size: 1.8rem;
+    }
+
+    .aboutUs p,
+    .ourculture p,
+    .campus p,
+    .facilities p {
+        font-size: 1.1rem;
+    }
+
+    .aboutUs .darkslategray,
+    .ourculture .darkslategray,
+    .campus .darkslategray,
+    .facilities .darkslategray,
+    .principaldesk .darkslategray,
+    .photogallery .darkslategray,
+    .formfilling .darkslategray {
+        font-size: 1.6rem;
+    }
+
+    .aboutUs button,
+    .principaldesk .principalmorebtn {
+        font-size: 1.1rem;
+    }
+
+    .campus .campusExpl .campusflex img {
+        width: 70%;
+        margin-right: 2vh;
+    }
+
+    .ourculture .cultureimage img {
+        width: 225%;
+        height: auto;
+    }
+
+    .campus .campusExpl .campusflex h2 {
+        font-size: 1.4rem;
+    }
+
+    .vision h1,
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    .vision p {
+        font-size: 1rem;
+    }
+
+    .principaldesk p {
+        font-size: 1.1rem;
+        line-height: 5vh;
+    }
+
+    .photogallery {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .photogallery .photogallerygrid {
+        column-gap: 5vh;
+        row-gap: 5vh;
+    }
+
+    .photogallery img {
+        width: 98%;
+        height: auto;
+    }
+
+    .photogallery .photogalleryimage2 img {
+        width: 50vh;
+        height: 31vh;
+        object-fit: cover;
+    }
+
+    .formfilling .info input {
+        height: 5vh;
+        font-size: 1rem;
+    }
+
+    .formfilling .address textarea {
+        width: 63%;
+        font-size: 1rem;
+    }
+
+    .formfilling .submit input {
+        width: 20%;
+        height: 5vh;
+        font-size: 1rem;
+    }
+
+    footer {
+        justify-content: center;
+    }
+
+    .copyright {
+        justify-content: center;
+        column-gap: 10vh;
+    }
+
+    .copyright h3 {
+        color: white;
+        font-size: 1.4rem;
+    }
+
+    .copyright ul {
+        margin-left: -5vh;
+    }
+
+    .copyright ul li {
+        font-size: 1.1rem;
+    }
+
+    footer p {
+        font-size: 1rem;
+    }
+}
+
+@media only screen and (max-width:990px) {
+    .topbar {
+        height: 4vh;
+        font-size: 0.6rem;
+    }
+
+    .navbar div img {
+        width: 90%;
+        height: auto;
+    }
+
+    .navbar .navleft {
+        margin-right: 1vh;
+    }
+
+    .navbar .navlinks ul {
+        margin-left: -5vh;
+    }
+
+    .navbar .navlinks ul a {
+        font-size: 0.8rem;
+    }
+
+    .navbar .navlinks .dropdown:hover .dropdown-content {
+        padding: 2vh;
+        width: 30vh;
+    }
+
+    .schoolname {
+        font-size: 1.3rem;
+    }
+
+    .aboutUs .aboutheading,
+    .campus .aboutheading {
+        font-size: 1.3rem;
+    }
+
+    .aboutUs .greentext,
+    .ourculture .greentext,
+    .campus .greentext,
+    .facilities .greentext,
+    .principaldesk .greentext,
+    .photogallery .greentext,
+    .formfilling .greentext {
+        font-size: 1.6rem;
+    }
+
+    .aboutUs p,
+    .ourculture p,
+    .campus p,
+    .facilities p {
+        font-size: 1rem;
+    }
+
+    .aboutUs .darkslategray,
+    .ourculture .darkslategray,
+    .campus .darkslategray,
+    .facilities .darkslategray,
+    .principaldesk .darkslategray,
+    .photogallery .darkslategray,
+    .formfilling .darkslategray {
+        font-size: 1.4rem;
+    }
+
+    .aboutUs button,
+    .principaldesk .principalmorebtn {
+        font-size: 1rem;
+    }
+
+    .campus .campusExpl .campusflex img {
+        width: 50%;
+        margin-right: 2vh;
+    }
+
+    .ourculture .cultureimage img {
+        width: 225%;
+        height: auto;
+    }
+
+    .campus .campusExpl .campusflex h2 {
+        font-size: 1.2rem;
+    }
+
+    .vision{
+        margin: 5vh;
+    }
+
+    .vision h1,
+    h2 {
+        font-size: 1.2rem;
+    }
+
+    .vision p {
+        font-size: 0.9rem;
+    }
+
+    .principaldesk p {
+        font-size: 1rem;
+        line-height: 4vh;
+    }
+
+    .photogallery {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .photogallery .photogallerygrid {
+        column-gap: 5vh;
+        row-gap: 5vh;
+    }
+
+    .photogallery img {
+        width: 98%;
+        height: auto;
+    }
+
+    .photogallery .photogalleryimage2 img {
+        width: 38vh;
+        height: 25vh;
+        object-fit: cover;
+    }
+
+    .formfilling .info input {
+        height: 5vh;
+        font-size: 0.8rem;
+    }
+
+    .formfilling .address textarea {
+        width: 63%;
+        font-size: 0.8rem;
+    }
+
+    .formfilling .submit input {
+        width: 20%;
+        height: 5vh;
+        font-size: 0.8rem;
+    }
+
+    footer {
+        justify-content: center;
+    }
+
+    .copyright {
+        justify-content: center;
+        column-gap: 10vh;
+    }
+
+    .copyright h3 {
+        color: white;
+        font-size: 1.1rem;
+    }
+
+    .copyright ul {
+        margin-left: -5vh;
+    }
+
+    .copyright ul li {
+        font-size: 0.9rem;
+    }
+
+    footer p {
+        font-size: 0.8rem;
+    }
+}
+
+/*@media only screen and (max-width:767px) {
+    .topbar {
+        height: 2.5vh;
+        font-size: 0.5rem;
+    }
+
+    .navbar div img {
+        width: 70%;
+        height: auto;
+    }
+
+    .navbar .navleft {
+        margin-right: 0.5vh;
+        margin-left: 1vh;
+    }
+
+.navbar .navlinks{
+    margin-left: -2vh;
+    padding-left: 0vh;
+    height: 7vh;
+}
+
+    .navbar .navlinks ul {
+        margin-left: -5vh;
+    }
+
+    .navbar .navlinks ul a {
+        font-size: 0.7rem;
+        margin-right: -2vh;
+        display: block;
+    }
+
+    .navbar .navlinks .dropdown:hover .dropdown-content {
+        padding: 2vh;
+        width: 20vh;
+        height: auto;
+    }
+
+    .schoolname {
+        font-size: 1.1rem;
+    }
+
+    .banner{
+        display: none;
+    }
+
+    .aboutUs .aboutheading,
+    .campus .aboutheading {
+        font-size: 1.1rem;
+    }
+
+    .aboutUs .greentext,
+    .ourculture .greentext,
+    .campus .greentext,
+    .facilities .greentext,
+    .principaldesk .greentext,
+    .photogallery .greentext,
+    .formfilling .greentext {
+        font-size: 1.3rem;
+    }
+
+    .aboutUs p,
+    .ourculture p,
+    .campus p,
+    .facilities p {
+        font-size: 0.8rem;
+    }
+
+    .aboutUs .darkslategray,
+    .ourculture .darkslategray,
+    .campus .darkslategray,
+    .facilities .darkslategray,
+    .principaldesk .darkslategray,
+    .photogallery .darkslategray,
+    .formfilling .darkslategray {
+        font-size: 1.1rem;
+    }
+
+    .aboutUs button,
+    .principaldesk .principalmorebtn {
+        font-size: 0.8rem;
+        height: 4vh;
+    }
+
+    .campus .campusExpl .campusflex img {
+        width: 50%;
+        margin-right: 2vh;
+    }
+
+    .ourculture .cultureimage img {
+        width: 200%;
+        height: auto;
+    }
+
+    .campus .campusExpl .campusflex h2 {
+        font-size: 1.2rem;
+    }
+
+    .vision{
+        margin: 5vh;
+    }
+
+    .vision h1,
+    h2 {
+        font-size: 1.2rem;
+    }
+
+    .vision p {
+        font-size: 0.9rem;
+    }
+
+    .principaldesk p {
+        font-size: 1rem;
+        line-height: 4vh;
+    }
+
+    .photogallery {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .photogallery .photogallerygrid {
+        column-gap: 5vh;
+        row-gap: 5vh;
+    }
+
+    .photogallery img {
+        width: 98%;
+        height: auto;
+    }
+
+    .photogallery .photogalleryimage2 img {
+        width: 38vh;
+        height: 25vh;
+        object-fit: cover;
+    }
+
+    .formfilling .info input {
+        height: 5vh;
+        font-size: 0.8rem;
+    }
+
+    .formfilling .address textarea {
+        width: 63%;
+        font-size: 0.8rem;
+    }
+
+    .formfilling .submit input {
+        width: 20%;
+        height: 5vh;
+        font-size: 0.8rem;
+    }
+
+    footer {
+        justify-content: center;
+    }
+
+    .copyright {
+        justify-content: center;
+        column-gap: 10vh;
+    }
+
+    .copyright h3 {
+        color: white;
+        font-size: 1.1rem;
+    }
+
+    .copyright ul {
+        margin-left: -5vh;
+    }
+
+    .copyright ul li {
+        font-size: 0.9rem;
+    }
+
+    footer p {
+        font-size: 0.8rem;
+    }
+}*/
